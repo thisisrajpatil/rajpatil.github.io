@@ -1,6 +1,8 @@
-# Portfolio.github.io
+#RajPatil.github.io
 
-[Visit Now](https://patiltush7350.github.io/Portfolio-.github.io/)
+[Visit Now](https://thisisrajpatil.github.io/rajpatil.github.io/)
  
-# A glimpse of the main page![Screenshot (165)](https://user-images.githubusercontent.com/104629633/228501453-8dbb5162-1236-4d92-a68e-a9ff87689d5e.png)
+# A glimpse of the main page!
+![image](https://github.com/thisisrajpatil/rajpatil.github.io/assets/81551589/cea89136-7d90-4cc9-b895-606ab57cb6e2)
+
  🙈
